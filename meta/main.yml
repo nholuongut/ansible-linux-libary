@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  namespace: vbotka
+  role_name: linux_lib
+  author: Vladimir Botka
+  description: Library of tasks to configure Linux.
+  company: https://botka.info
+  github_branch: master
+  license: BSD
+  min_ansible_version: "2.12"
+  platforms:
+    - name: Ubuntu
+      versions:
+        - bionic
+        - focal
+  galaxy_tags:
+    - linux
+    - ubuntu
+dependencies: []
+collections: []
+...
